@@ -1,7 +1,7 @@
 {
 	"author" : "Daxmatic",
 	"authors" : [  ],
-	"description" : "Contains a pattrstorage presetmanager that can be embedded as a bpatcher for 253 presets with sequencer support that only loads a preset on the 1 beat of the measure",
+	"description" : "Contains a pattrstorage presetmanager,MIDISetup utility",
 	"displayname" : "",
 	"extends" : "",
 	"extensible" : 0,
@@ -32,7 +32,7 @@
 	"website" : "https://github.com/Daxmatic?tab=repositories",
 	"filelist" : 	{
 		"externals" : [ ],
-		"patchers" : [ "DH.PresetManager.maxpat"],
+		"patchers" : [ "DH.PresetManager.maxpat","DH.MIDIDeviceConfig.maxpat"],
 		"help" : [ "DH.PresetManagerExample.maxhelp"],
 		"media" : [  ],
 		"docs" : [ "DH.PresetManager.maxref.xml" ],
