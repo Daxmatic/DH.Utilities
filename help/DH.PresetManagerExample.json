@@ -1,0 +1,126 @@
+{
+	"pattrstorage" : 	{
+		"name" : "DH.PresetManagerExample",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"name" : "Preset 1",
+				"data" : 				{
+					"toggle1" : [ 0 ],
+					"toggle2" : [ 0 ],
+					"toggle3" : [ 0 ],
+					"toggle4" : [ 0 ],
+					"DH.PresetManager::AutoPattrToggleDummy" : [ 0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"name" : "Preset 2",
+				"data" : 				{
+					"toggle1" : [ 0 ],
+					"toggle2" : [ 0 ],
+					"toggle3" : [ 0 ],
+					"toggle4" : [ 0 ],
+					"DH.PresetManager::AutoPattrToggleDummy" : [ 0 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"name" : "Preset 3",
+				"data" : 				{
+					"toggle1" : [ 0 ],
+					"toggle2" : [ 0 ],
+					"toggle3" : [ 0 ],
+					"toggle4" : [ 0 ],
+					"DH.PresetManager::AutoPattrToggleDummy" : [ 0 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"name" : "Preset 4",
+				"data" : 				{
+					"toggle1" : [ 0 ],
+					"toggle2" : [ 0 ],
+					"toggle3" : [ 0 ],
+					"toggle4" : [ 0 ],
+					"DH.PresetManager::AutoPattrToggleDummy" : [ 0 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"name" : "Preset 5",
+				"data" : 				{
+					"toggle1" : [ 0 ],
+					"toggle2" : [ 0 ],
+					"toggle3" : [ 0 ],
+					"toggle4" : [ 0 ],
+					"DH.PresetManager::AutoPattrToggleDummy" : [ 0 ]
+				}
+
+			}
+,
+			"6" : 			{
+				"id" : 6,
+				"name" : "Preset 6",
+				"data" : 				{
+					"toggle1" : [ 0 ],
+					"toggle2" : [ 0 ],
+					"toggle3" : [ 0 ],
+					"toggle4" : [ 0 ],
+					"DH.PresetManager::AutoPattrToggleDummy" : [ 0 ]
+				}
+
+			}
+,
+			"8" : 			{
+				"id" : 8,
+				"name" : "Preset 8",
+				"data" : 				{
+					"toggle1" : [ 0 ],
+					"toggle2" : [ 0 ],
+					"toggle3" : [ 0 ],
+					"toggle4" : [ 0 ],
+					"DH.PresetManager::AutoPattrToggleDummy" : [ 0 ]
+				}
+
+			}
+,
+			"127" : 			{
+				"id" : 127,
+				"name" : "Preset 127",
+				"data" : 				{
+					"toggle1" : [ 0 ],
+					"toggle2" : [ 0 ],
+					"toggle3" : [ 0 ],
+					"toggle4" : [ 0 ],
+					"DH.PresetManager::AutoPattrToggleDummy" : [ 0 ]
+				}
+
+			}
+,
+			"253" : 			{
+				"id" : 253,
+				"name" : "Preset 253",
+				"data" : 				{
+					"toggle1" : [ 0 ],
+					"toggle2" : [ 0 ],
+					"toggle3" : [ 0 ],
+					"toggle4" : [ 0 ],
+					"DH.PresetManager::AutoPattrToggleDummy" : [ 0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
