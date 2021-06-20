@@ -18,6 +18,9 @@ Patches
    	
  	These are only the first patches but im sure there will be more
  
+ 
+ - Installation:
+ 	Just download or clone the repository and put it in your packages directory
  I hope you find them useful.
  
  Regards
