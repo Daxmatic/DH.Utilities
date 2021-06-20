@@ -1,11 +1,11 @@
 {
 	"author" : "Daxmatic",
 	"authors" : [  ],
-	"description" : "Contains a pattrstorage presetmanager,MIDISetup utility",
+	"description" : "Contains a pattrstorage presetmanager and a MIDISetup utility",
 	"displayname" : "",
 	"extends" : "",
 	"extensible" : 0,
-	"homepatcher" : "DH.UtilityLaunch.maxpat",
+	"homepatcher" : "DH.Demo.maxpat",
 	"max_version_max" : "none",
 	"max_version_min" : "none",
 	"name" : "DH.Utilities",
@@ -28,11 +28,11 @@
 	}
 ,
 	"tags" : [ "pattrstorage", "presets", "midi", "utility" ],
-	"version" : "0.1",
+	"version" : "0.2",
 	"website" : "https://github.com/Daxmatic?tab=repositories",
 	"filelist" : 	{
 		"externals" : [ ],
-		"patchers" : [ "DH.PresetManager.maxpat","DH.MIDIDeviceConfig.maxpat"],
+		"patchers" : [ "DH.PresetManager.maxpat","DH.MIDIDeviceConfig.maxpat","DH.Demo.maxpat"],
 		"help" : [ "DH.PresetManagerExample.maxhelp"],
 		"media" : [  ],
 		"docs" : [ "DH.PresetManager.maxref.xml" ],
