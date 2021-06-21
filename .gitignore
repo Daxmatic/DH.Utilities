@@ -1,2 +1,4 @@
 
 .DS_Store
+*.json
+patchers/live.step.test.maxpat
