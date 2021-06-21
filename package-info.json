@@ -33,7 +33,7 @@
 	"filelist" : 	{
 		"externals" : [ ],
 		"patchers" : [ "DH.PresetManager.maxpat","DH.MIDIDeviceConfig.maxpat","DH.Demo.maxpat"],
-		"help" : [ "DH.PresetManagerExample.maxhelp"],
+		"help" : [ "DH.PresetManager.maxhelp"],
 		"media" : [  ],
 		"docs" : [ "DH.PresetManager.maxref.xml" ],
 		"javascript" : [ ],
