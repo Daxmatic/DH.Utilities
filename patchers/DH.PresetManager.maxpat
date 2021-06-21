@@ -370,8 +370,6 @@
 			}
 , 			{
 				"box" : 				{
-					"bgcolor" : [ 0.627450980392157, 0.03921568627451, 0.03921568627451, 1.0 ],
-					"bgoncolor" : [ 1.0, 0.0, 0.070588235294118, 1.0 ],
 					"blinktime" : 1000,
 					"id" : "obj-102",
 					"maxclass" : "textbutton",
@@ -395,9 +393,9 @@
 
 					}
 ,
+					"style" : "DeleteButtons",
 					"text" : "DeleteAll",
 					"texton" : "DeleteAll",
-					"textoncolor" : [ 1.0, 1.0, 1.0, 1.0 ],
 					"usebgoncolor" : 1,
 					"varname" : "delall"
 				}
@@ -405,8 +403,6 @@
 			}
 , 			{
 				"box" : 				{
-					"bgcolor" : [ 0.627450980392157, 0.03921568627451, 0.03921568627451, 1.0 ],
-					"bgoncolor" : [ 1.0, 0.0, 0.070588235294118, 1.0 ],
 					"blinktime" : 500,
 					"id" : "obj-100",
 					"maxclass" : "textbutton",
@@ -430,9 +426,9 @@
 
 					}
 ,
+					"style" : "DeleteButtons",
 					"text" : "Delete",
 					"texton" : "Delete",
-					"textoncolor" : [ 1.0, 1.0, 1.0, 1.0 ],
 					"usebgoncolor" : 1,
 					"varname" : "delpreset"
 				}
@@ -440,8 +436,6 @@
 			}
 , 			{
 				"box" : 				{
-					"bgcolor" : [ 0.627450980392157, 0.03921568627451, 0.03921568627451, 1.0 ],
-					"bgoncolor" : [ 1.0, 0.0, 0.070588235294118, 1.0 ],
 					"blinktime" : 100,
 					"id" : "obj-101",
 					"maxclass" : "textbutton",
@@ -465,9 +459,9 @@
 
 					}
 ,
+					"style" : "DeleteButtons",
 					"text" : "DeleteBank",
 					"texton" : "DeleteBank",
-					"textoncolor" : [ 1.0, 1.0, 1.0, 1.0 ],
 					"usebgoncolor" : 1,
 					"varname" : "delbank"
 				}
@@ -7742,7 +7736,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 700.0, 223.389745113609479, 195.0, 34.0 ],
+					"patching_rect" : [ 720.5, 223.389745113609479, 195.0, 34.0 ],
 					"text" : "Enable or disable controlled saving and recall"
 				}
 
@@ -7951,7 +7945,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 1039.0, 79.0, 855.0, 924.0 ],
+						"rect" : [ 1031.0, 79.0, 855.0, 924.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -10461,6 +10455,17 @@
 ,
 				"parentstyle" : "",
 				"multi" : 0
+			}
+, 			{
+				"name" : "DeleteButtons",
+				"textbutton" : 				{
+					"color" : [ 1.0, 1.0, 1.0, 1.0 ],
+					"bgcolor" : [ 0.627450980392157, 0.03921568627451, 0.03921568627451, 1.0 ],
+					"elementcolor" : [ 1.0, 0.0, 0.070588235294118, 1.0 ]
+				}
+,
+				"parentstyle" : "",
+				"multi" : 1
 			}
 , 			{
 				"name" : "PAt_style0",
