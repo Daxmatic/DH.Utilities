@@ -1,0 +1,7 @@
+{
+	"script" : [ "newobject", "textbutton" ],
+	"@varname" : "B_17",
+	"@presentation" : 1,
+	"@presentation_rect" : [ 1195, 30, 69, 22 ],
+	"@patching_rect" : [ 1195, 30, 69, 22 ]
+}
